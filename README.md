@@ -1,8 +1,8 @@
 # Electronics Laboratory – Computational Analysis
 
-This repository contains **computational analysis and visualization** of selected undergraduate electronics laboratory experiments from **Electronics Lab (P241)**.
+This repository contains **computational analysis and visualization** of selected electronics lab experiments from **Electronics Lab (P241)**.
 
-The focus of this repository is **not circuit simulation**, but **post-experimental data analysis**, where programming was meaningfully used to:
+The focus of this repository is **not circuit simulation**, but **post-experimental data analysis** used to:
 - analyze measured data,
 - fit physics-based models,
 - extract parameters,
@@ -16,7 +16,7 @@ Only those experiments are included **where coding added real analytical value**
 
 Each experiment directory typically contains:
 - **Raw experimental data** (CSV format)
-- **Physics-based / circuit-theoretic models**
+- **Physics-based models**
 - **Parameter estimation / curve fitting**
 - **Clear visualizations (Bode plots, characteristics, transfer curves, etc.)**
 
